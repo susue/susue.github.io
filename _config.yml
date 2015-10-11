@@ -1,5 +1,5 @@
-name: レベルを上げて物理で殴ろう
-description: お勉強ブログ
+name: レベルを上げて物理で殴る
+description: レベルを上げて物理で殴る 
 meta_description: "会社用お勉強ブログ"
 
 aboutPage: true
@@ -9,10 +9,10 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://susue.github.io/'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: true
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'susue_disqus'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
