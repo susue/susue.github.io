@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: レベルを上げて物理で殴ろう
+description: お勉強ブログ
+meta_description: "会社用お勉強ブログ"
 
 aboutPage: true
 
@@ -11,12 +11,12 @@ paginate: 20
 baseurl: /
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
+disqus: true
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
+author:         'susue'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
